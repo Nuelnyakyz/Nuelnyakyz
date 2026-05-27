@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nuel Nyakyz
+# Hi there 👋 I'm Nuel
 
 A passionate **Full-Stack Developer** with expertise in building scalable applications across multiple platforms. I love solving complex problems and creating elegant solutions with clean, maintainable code.
 
