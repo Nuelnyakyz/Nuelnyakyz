@@ -37,37 +37,6 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 
 ---
 
-## 📁 Featured Projects
-
-### 🔙 Backend Development
-| Project | Description | Tech |
-|---------|-------------|------|
-| [306-go-backend](https://github.com/Nuelnyakyz/306-go-backend) | Backend service built with Go | Go |
-| [MillieW](https://github.com/Nuelnyakyz/MillieW) | Sky Cash Aviator backend | Go |
-| [PaymentsApp](https://github.com/Nuelnyakyz/PaymentsApp) | Payment gateway system | Laravel/PHP |
-
-### 📱 Mobile Development
-| Project | Description | Tech |
-|---------|-------------|------|
-| [notesAppV2](https://github.com/Nuelnyakyz/notesAppV2) | Notes application | Kotlin |
-
-### 🌐 Web Applications
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Mannu](https://github.com/Nuelnyakyz/Mannu) | Web application | TypeScript |
-| [CourseIt](https://github.com/Nuelnyakyz/CourseIt) | Course management system | CSS/HTML |
-| [Student-Task-Manager](https://github.com/Nuelnyakyz/Student-Task-Manager) | Task management tool | TypeScript |
-
-### 🛠️ Specialized Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [pdf_reader](https://github.com/Nuelnyakyz/pdf_reader) | PDF to Audio converter | Python |
-| [sentin-gantt](https://github.com/Nuelnyakyz/sentin-gantt) | Gantt chart visualization | HTML/JavaScript |
-| [SentinAIPresentation](https://github.com/Nuelnyakyz/SentinAIPresentation) | AI presentation tool | HTML/JavaScript |
-| [simple-uok-uon-lms](https://github.com/Nuelnyakyz/simple-uok-uon-lms) | Learning Management System | HTML |
-
----
-
 ## 📊 My Approach
 
 - 🎨 **Clean Code** - Writing readable, maintainable code
