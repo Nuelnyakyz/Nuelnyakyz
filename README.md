@@ -68,20 +68,6 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 
 ---
 
-## 🎯 What I'm Good At
-
-✅ Building **RESTful APIs** and backend services  
-✅ Developing **responsive web applications**  
-✅ Creating **mobile applications** for Android and cross-platform with Flutter  
-✅ Database design and optimization (PostgreSQL, NoSQL)  
-✅ Backend solutions with Django & Django REST Framework  
-✅ Real-time applications with Supabase  
-✅ Code quality and best practices  
-✅ Problem-solving and debugging  
-✅ Working in agile environments  
-
----
-
 ## 📊 My Approach
 
 - 🎨 **Clean Code** - Writing readable, maintainable code
