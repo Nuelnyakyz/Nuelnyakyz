@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Emmanue
+# Hi there 👋 I'm Nuel Nyakyz
 
 A passionate **Full-Stack Developer** with expertise in building scalable applications across multiple platforms. I love solving complex problems and creating elegant solutions with clean, maintainable code.
 
@@ -20,16 +20,19 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat&logo=html5&logoColor=white)
 
-### Frameworks & Tools
-- **Backend**: Go, Laravel, Node.js
-- **Frontend**: TypeScript, React (implied from projects)
-- **Mobile**: Kotlin (Android)
-- **Database**: SQL, NoSQL
+### Frameworks & Libraries
+- **Backend**: Go, Laravel, Node.js, Django, Django REST Framework
+- **Frontend**: TypeScript, React (implied from projects), JavaScript
+- **Mobile**: Kotlin (Android), Flutter (cross-platform)
+- **Database**: PostgreSQL, SQL, NoSQL
+- **Backend as a Service**: Supabase
 - **Tools**: Git, Docker, REST APIs
 
 ---
@@ -69,8 +72,10 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 
 ✅ Building **RESTful APIs** and backend services  
 ✅ Developing **responsive web applications**  
-✅ Creating **mobile applications** for Android  
-✅ Database design and optimization  
+✅ Creating **mobile applications** for Android and cross-platform with Flutter  
+✅ Database design and optimization (PostgreSQL, NoSQL)  
+✅ Backend solutions with Django & Django REST Framework  
+✅ Real-time applications with Supabase  
 ✅ Code quality and best practices  
 ✅ Problem-solving and debugging  
 ✅ Working in agile environments  
@@ -94,6 +99,7 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 - Proven ability to work with diverse technology stacks
 - Strong foundation in software engineering principles
 - Portfolio of real-world applications and solutions
+- Cross-platform mobile development expertise
 
 ---
 
