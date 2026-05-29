@@ -47,17 +47,6 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 
 ---
 
-## 🌟 Highlights
-
-- Full-stack development across multiple platforms
-- Experience with both frontend and backend systems
-- Proven ability to work with diverse technology stacks
-- Strong foundation in software engineering principles
-- Portfolio of real-world applications and solutions
-- Cross-platform mobile development expertise
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out!
