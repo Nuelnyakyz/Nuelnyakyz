@@ -15,6 +15,7 @@ I'm a developer who thrives on turning ideas into reality. With experience in **
 
 ---
 
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -56,11 +57,6 @@ I'm always interested in collaborating on exciting projects or discussing new id
 
 ---
 
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuelnyakyz&show_icons=true&theme=radical)
-
----
 
 ## 💡 Philosophy
 
